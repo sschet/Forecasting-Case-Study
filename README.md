@@ -1,2 +1,2 @@
 # Forecasting-Case-Study
-The Astellas Pharma Inc. forecasting case study.
+The Astellas forecasting case study.
